@@ -1,10 +1,17 @@
-# Todo
-
+# Angular 6 API shows Users and posts pulled from an external API 
+![Alt text](https://images-na.ssl-images-amazon.com/images/G/01/DVD/Paramount/detailpages/IronMan/IronMan_Still_H5_L.jpg)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
+If you want to try out this example 
+do git clone https://github.com/djangorobert/Angular6-API-APP.git
+## Once it finishes cd into todo
+cd todo
+then
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. 
+Navigate to `http://localhost:4200/`.
+The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

@@ -1,5 +1,7 @@
 # Angular 6 API shows Users and posts pulled from an external API 
 ![Alt text](https://images-na.ssl-images-amazon.com/images/G/01/DVD/Paramount/detailpages/IronMan/IronMan_Still_H5_L.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
